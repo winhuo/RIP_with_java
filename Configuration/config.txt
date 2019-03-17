@@ -1,0 +1,3 @@
+heartbeat: 250
+sendtime: 1000
+printtime: 15000
